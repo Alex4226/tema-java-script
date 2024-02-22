@@ -1,5 +1,6 @@
-const prompt = require('prompt-sync')();
+// const prompt = require('prompt-sync')();
 
+console.log("Hello  World!");
 
 function divizibil(x){
   if(x % 10 == 0)
